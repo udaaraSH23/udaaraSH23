@@ -11,7 +11,7 @@
 ```bash
 $ whoami
 → Electronics & Computer Science undergraduate
-→ Backend & DevOps engineer building scalable web systems
+→ Building scalable web systems
 → Obsessed with clean architecture, distributed systems, and automation
 
 $ uptime
@@ -41,10 +41,10 @@ $ uptime
 > I build systems with a focus on **maintainability**, **observable infrastructure**, and **practical scalability**.  
 > Not over-engineering — just engineering well.
 
-- 🎓 Electronics & Computer Science undergraduate
+- 🎓 Electronics & Computer Science @ University Of Kelaniya
 - ⚙️ Backend architecture, cloud-native infrastructure, DevOps pipelines
 - 🧠 Distributed systems, event-driven patterns, microservices design
-- 🔁 Strong CI/CD automation habits — if it's not automated, it's technical debt
+- 🔁 Strong CI/CD automation habits - if it's not automated, it's technical debt
 - 🌐 Containers, orchestration, Infrastructure-as-Code by default
 
 ---
@@ -156,7 +156,6 @@ $ uptime
 - Modular Terraform with remote state management (S3 + locking)
 - VPC/subnet design with security group policies
 - Auto-scaling groups with launch templates
-- CI-triggered plan + apply workflows
 
 `Terraform` `AWS` `GCP` `GitHub Actions`
 
@@ -170,9 +169,8 @@ $ uptime
 - JWT + refresh token auth flow
 - Dockerized services with Nginx reverse proxy
 - Paginated catalog with search & filter
-- Admin analytics panel with sales reporting
 
-`React` `Spring Boot` `MongoDB` `Docker`
+`React` `Spring Boot` `WSO2 APIM` `Docker`
 
 </td>
 </tr>
@@ -246,7 +244,6 @@ $ uptime
 | **Distributed Systems** | Designing event-driven architectures with Kafka |
 | **Cloud Infrastructure** | Multi-cloud IaC with Terraform + GitOps |
 | **Observability** | Prometheus + Grafana monitoring stacks |
-| **Authentication** | SSO & identity federation with WSO2 |
 | **ML Pipelines** | Computer vision with TensorFlow + MediaPipe |
 
 </div>
